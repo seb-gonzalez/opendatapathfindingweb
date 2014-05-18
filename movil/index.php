@@ -48,7 +48,7 @@
   <ul class="rounded">
   
   	<li class="arrow">
-      <a href="../web/showError.php" rel="external">Planificador de rutas*</a>
+            <a href="../web/Buscador de rutas/GoogleMaps_planificador.php" rel="external">Planificador de rutas*</a>
     </li>  
 
     <li class="arrow">
